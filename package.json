@@ -1,0 +1,21 @@
+{
+  "name": "node-mess-around",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "authorizenet": "^1.0.5",
+    "body-parser": "^1.18.3",
+    "node-hid": "^0.7.3",
+    "node-hid-stream": "0.0.3",
+    "redis": "^2.8.0",
+    "tumblr.js": "^2.0.0",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ptarsoly",
+  "license": "ISC"
+}
